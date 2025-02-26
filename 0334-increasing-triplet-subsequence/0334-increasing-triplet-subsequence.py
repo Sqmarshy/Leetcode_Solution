@@ -1,20 +1,12 @@
 class Solution:
     def increasingTriplet(self, nums: List[int]) -> bool:
-        maxi, idx = -float('inf'), 0
-        greater = [False] * len(nums)
-        for i in range(len(nums) - 1, -1, -1):
-            if maxi > nums[i]:
-                greater[i] = idx
-            if nums[i] > maxi:
-                idx = i
-                maxi = nums[i]
-
-        mini = float('inf')
-        for i in range(len(nums)):
-            if nums[i] > mini:
-                if greater[i]:
-                    return True
-            else:
-                mini = nums[i]
+        first, second = 2**31, 2**31
+        for i in nums:
+            if i < first and i < second:
+                first = i
+            elif i > first and i < second:
+                second = i
+            elif i > first and i > second:
+                return True
         return False
-        
+            
