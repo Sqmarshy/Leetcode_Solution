@@ -20,9 +20,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0001-two-sum) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Tree
 |  |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1559-cherry-pickup-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1559-cherry-pickup-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
