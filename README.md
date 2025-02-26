@@ -18,4 +18,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
