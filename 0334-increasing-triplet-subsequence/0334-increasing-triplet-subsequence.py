@@ -1,6 +1,6 @@
 class Solution:
     def increasingTriplet(self, nums: List[int]) -> bool:
-        first, second = 2**31, 2**31
+        first, second = float('inf'), float('inf')
         for i in nums:
             if i < first and i < second:
                 first = i
@@ -9,4 +9,3 @@ class Solution:
             elif i > first and i > second:
                 return True
         return False
-            
