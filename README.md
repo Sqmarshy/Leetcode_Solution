@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0053-maximum-subarray) |
+| [1559-cherry-pickup-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1559-cherry-pickup-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0053-maximum-subarray) |
+| [1559-cherry-pickup-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1559-cherry-pickup-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [1559-cherry-pickup-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1559-cherry-pickup-ii) |
 <!---LeetCode Topics End-->
