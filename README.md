@@ -65,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2551-apply-operations-to-an-array) |
+## Database
+|  |
+| ------- |
+| [1135-customers-who-bought-all-products](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1135-customers-who-bought-all-products) |
 <!---LeetCode Topics End-->
