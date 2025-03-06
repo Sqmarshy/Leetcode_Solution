@@ -10,8 +10,11 @@ class Solution:
             if not node:
                 return 0
 
-            left = dfs(node.left, max(curr, node.val))
-            right = dfs(node.right, max(curr, node.val))
+            maxi = curr if curr > node.val else node.val
+            
+            left = dfs(node.left, maxi)
+            right = dfs(node.right, maxi)
+
             res = left + right
 
             return res if curr > node.val else res + 1
