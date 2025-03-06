@@ -7,15 +7,12 @@ class Solution:
         left = 0
         for i in range(len(data)):
             if i - left + 1 < size:
-                if data[i] == 0:
-                    curr += 1
+                curr += data[i]
                 continue
             else:
-                if data[i] == 0:
-                    curr += 1
-                res = min(res, curr)
-                if data[left] == 0:
-                    curr -= 1
+                curr += data[i]
+                res = min(res, size - curr)
+                curr -= data[left]
                 left += 1
         return res
                 
