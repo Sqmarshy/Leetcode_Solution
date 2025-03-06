@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0487-max-consecutive-ones-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0487-max-consecutive-ones-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
+| [1253-sort-the-matrix-diagonally](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1253-sort-the-matrix-diagonally) |
 | [1503-reducing-dishes](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1503-reducing-dishes) |
 | [1559-cherry-pickup-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1559-cherry-pickup-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1253-sort-the-matrix-diagonally](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1253-sort-the-matrix-diagonally) |
 | [1559-cherry-pickup-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1559-cherry-pickup-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3227-find-missing-and-repeated-values) |
 ## Sliding Window
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1253-sort-the-matrix-diagonally](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1253-sort-the-matrix-diagonally) |
 | [1503-reducing-dishes](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1503-reducing-dishes) |
 ## Breadth-First Search
 |  |
