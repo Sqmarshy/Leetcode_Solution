@@ -47,16 +47,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0904-leaf-similar-trees](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0904-leaf-similar-trees](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0904-leaf-similar-trees](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -97,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1503-reducing-dishes](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1503-reducing-dishes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
