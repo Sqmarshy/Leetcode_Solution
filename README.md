@@ -45,14 +45,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0904-leaf-similar-trees](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0904-leaf-similar-trees](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0904-leaf-similar-trees](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Matrix
 |  |
