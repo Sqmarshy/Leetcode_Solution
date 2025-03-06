@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0487-max-consecutive-ones-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0487-max-consecutive-ones-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1170-shortest-common-supersequence) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1503-reducing-dishes](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1503-reducing-dishes) |
 | [1559-cherry-pickup-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1559-cherry-pickup-ii) |
 ## Hash Table
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Matrix
 |  |
