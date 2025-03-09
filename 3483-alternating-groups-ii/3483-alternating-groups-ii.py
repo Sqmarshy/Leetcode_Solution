@@ -1,28 +1,45 @@
 class Solution:
     def numberOfAlternatingGroups(self, colors: List[int], k: int) -> int:
-        left, res = 0, 0
-        n = len(colors)
+        if k <= 1:
+            return len(colors)
+        if k > len(colors):
+            return 0
 
-        # # First intuition
-        # colors_extended = colors + colors
-        # for i in range(1, len(colors_extended)):
-        #     if left >= n:
-        #         return res
-        #     if colors_extended[i] == colors_extended[i - 1]:
-        #         left = i
-        #     if i - left + 1 < k:
-        #         continue
-        #     res += 1
-        #     left += 1
-        # return res
+        lp = 0
+        rp = k
+        new_colors = colors * 2
+        ans = 0
 
-        # Space Optimized 
-        ending_point = n + k - 1 # If last element of colors (color[n-1]) is the start of subarray, this will be the ending point of that subarray
-        for i in range(1, ending_point):
-            if colors[i % n] == colors[(i - 1) % n]:
-                left = i
-            if i - left + 1 < k:
-                continue
-            res += 1
-            left += 1
-        return res
+        def is_valid(arr):
+            for i in range(len(arr)-1):
+                if arr[i] == arr[i+1]:
+                    return False
+            return True
+
+        current_valid = is_valid(new_colors[lp:rp])
+        if current_valid:
+            ans += 1
+
+        lp += 1
+        rp += 1
+
+        while lp < len(colors):
+            if current_valid:
+                if new_colors[rp-1] != new_colors[rp-2]:
+                    ans += 1
+                    lp += 1
+                    rp += 1
+                else:
+                    current_valid = False
+                    lp += 1
+                    rp += 1
+            
+            else:
+                # invalid, check entire window
+                if is_valid(new_colors[lp:rp]):
+                    current_valid = True
+                    ans += 1
+                lp += 1
+                rp += 1
+
+        return ans
