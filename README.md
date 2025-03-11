@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0054-spiral-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0334-increasing-triplet-subsequence) |
+| [0447-number-of-boomerangs](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0447-number-of-boomerangs) |
 | [0487-max-consecutive-ones-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0487-max-consecutive-ones-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0907-koko-eating-bananas) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0127-word-ladder](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0127-word-ladder) |
+| [0447-number-of-boomerangs](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0447-number-of-boomerangs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0447-number-of-boomerangs](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0447-number-of-boomerangs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2649-count-total-number-of-colored-cells) |
