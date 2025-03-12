@@ -11,11 +11,11 @@ class Solution:
             '8':'8', 
             '9':'6'}
         for i in range(len(s) - 1, -1, -1):
+            if not res and s[i] == '0':
+                continue
             if s[i] in can:
                 res.append(can[s[i]])
             else:
                 return False
-        while res and res[0] == '0':
-            res.pop(0)
 
         return int(''.join(res)) != n
