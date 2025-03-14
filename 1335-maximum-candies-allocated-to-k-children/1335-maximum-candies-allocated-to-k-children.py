@@ -9,7 +9,7 @@ class Solution:
             return res >= k
         
         left = 1
-        right = 10**9
+        right = 10**7
         while left <= right:
             mid = (left + right) // 2
             if helper(mid):
