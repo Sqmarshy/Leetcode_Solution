@@ -20,7 +20,7 @@ class Solution:
         # Bisect right
         right = len(nums) - 1
         while left <= right:
-            mid = (left + right) // 2
+            mid = math.ceil((left + right) / 2)
             if nums[mid] <= target:
                 left = mid + 1
             else:
