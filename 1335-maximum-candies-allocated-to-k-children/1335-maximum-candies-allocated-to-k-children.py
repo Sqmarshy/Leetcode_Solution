@@ -8,12 +8,15 @@ class Solution:
                     return True
             return res >= k
         
+        if not helper(1):
+            return 0
+
         left = 1
-        right = 10**7
-        while left <= right:
-            mid = (left + right) // 2
+        right = max(candies)
+        while left < right:
+            mid = math.ceil((left + right) / 2)
             if helper(mid):
-                left = mid + 1
+                left = mid
             else:
                 right = mid - 1
-        return left if helper(left) else left - 1
+        return left
