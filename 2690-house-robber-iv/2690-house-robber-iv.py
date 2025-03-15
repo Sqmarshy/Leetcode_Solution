@@ -10,7 +10,7 @@ class Solution:
                     idx += 1
             return count >= k
         
-        left, right = 1, max(nums)
+        left, right = min(nums), max(nums)
         while left < right:
             mid = (left + right) // 2
             if helper(mid):
