@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0792-binary-search) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0907-koko-eating-bananas) |
+| [1036-rotting-oranges](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1036-rotting-oranges) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1253-sort-the-matrix-diagonally) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0054-spiral-matrix) |
+| [1036-rotting-oranges](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1036-rotting-oranges) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1253-sort-the-matrix-diagonally) |
 | [1559-cherry-pickup-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1559-cherry-pickup-ii) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0127-word-ladder) |
 | [0871-keys-and-rooms](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0871-keys-and-rooms) |
+| [1036-rotting-oranges](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Number Theory
