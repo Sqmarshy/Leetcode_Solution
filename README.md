@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0213-house-robber-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0334-increasing-triplet-subsequence) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0337-house-robber-iii) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0064-minimum-path-sum) |
 | [1036-rotting-oranges](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1036-rotting-oranges) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1253-sort-the-matrix-diagonally) |
 | [1559-cherry-pickup-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1559-cherry-pickup-ii) |
