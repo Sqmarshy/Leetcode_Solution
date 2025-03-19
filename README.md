@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3212-count-the-number-of-good-partitions](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3212-count-the-number-of-good-partitions) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3227-find-missing-and-repeated-values) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Greedy
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3643-zero-array-transformation-ii) |
 ## Counting
 |  |
@@ -241,4 +244,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0266-palindrome-permutation](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0266-palindrome-permutation) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2308-divide-array-into-equal-pairs) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
