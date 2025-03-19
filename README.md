@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0447-number-of-boomerangs](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0447-number-of-boomerangs) |
 | [0487-max-consecutive-ones-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0487-max-consecutive-ones-ii) |
+| [0740-delete-and-earn](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0740-delete-and-earn) |
 | [0792-binary-search](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0792-binary-search) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0907-koko-eating-bananas) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0337-house-robber-iii) |
 | [0487-max-consecutive-ones-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0487-max-consecutive-ones-ii) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0600-non-negative-integers-without-consecutive-ones) |
+| [0740-delete-and-earn](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0740-delete-and-earn) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1170-shortest-common-supersequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0266-palindrome-permutation](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0266-palindrome-permutation) |
 | [0447-number-of-boomerangs](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0447-number-of-boomerangs) |
+| [0740-delete-and-earn](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0740-delete-and-earn) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1023-time-based-key-value-store](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1023-time-based-key-value-store) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
