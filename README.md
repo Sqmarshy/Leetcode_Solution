@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0213-house-robber-ii) |
+| [0256-paint-house](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0256-paint-house) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0447-number-of-boomerangs](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0447-number-of-boomerangs) |
 | [0487-max-consecutive-ones-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0487-max-consecutive-ones-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0213-house-robber-ii) |
+| [0256-paint-house](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0256-paint-house) |
 | [0337-house-robber-iii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0337-house-robber-iii) |
 | [0487-max-consecutive-ones-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0487-max-consecutive-ones-ii) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0600-non-negative-integers-without-consecutive-ones) |
