@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3212-count-the-number-of-good-partitions](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3212-count-the-number-of-good-partitions) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3227-find-missing-and-repeated-values) |
+| [3430-count-days-without-meetings](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3643-zero-array-transformation-ii) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2636-maximum-subsequence-score](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2636-maximum-subsequence-score) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [3430-count-days-without-meetings](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3430-count-days-without-meetings) |
 ## Breadth-First Search
 |  |
 | ------- |
