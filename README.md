@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0127-word-ladder) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0266-palindrome-permutation](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0266-palindrome-permutation) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0447-number-of-boomerangs](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0447-number-of-boomerangs) |
 | [0740-delete-and-earn](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0740-delete-and-earn) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0337-house-robber-iii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0904-leaf-similar-trees) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0200-number-of-islands) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0337-house-robber-iii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0437-path-sum-iii) |
 | [0871-keys-and-rooms](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0871-keys-and-rooms) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0337-house-robber-iii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0904-leaf-similar-trees) |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0015-3sum) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1253-sort-the-matrix-diagonally) |
 | [1503-reducing-dishes](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1503-reducing-dishes) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -217,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0200-number-of-islands) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0871-keys-and-rooms](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1544-count-good-nodes-in-binary-tree) |
