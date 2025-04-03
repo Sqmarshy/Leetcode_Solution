@@ -4,9 +4,9 @@ class Solution:
         left = [0] * n
         right = [0] * n
         for i in range(1, n):
-            idx = n - 1 - i
             left[i] = max(left[i - 1], nums[i - 1])
-            right[idx] = max(right[n - i], nums[n - i])
+        for i in range(n-2, -1, -1):
+            right[i] = max(right[i + 1], nums[i + 1])
 
         res = 0
         for j in range(1, n - 1):
