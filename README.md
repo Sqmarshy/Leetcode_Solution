@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0196-delete-duplicate-emails) |
 | [1135-customers-who-bought-all-products](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1135-customers-who-bought-all-products) |
 ## Math
 |  |
