@@ -1,35 +1,38 @@
 class Solution:
     def lcaDeepestLeaves(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
-        deepest_path = []
+        deepest_paths = []
         def dfs(node, path):
-            nonlocal deepest_path
+            # Base Cases
             if not node:
                 return
+
+            # Add current node to path and explore left right
             path.append(node)
             dfs(node.left, path)
             dfs(node.right, path)
 
-            if not deepest_path:
-                deepest_path.append(path.copy())
+            # See if current path length is creater than ones in deepest_path
+            # Replace if current path is longer, append if equal, ignore if shorter
+            if not deepest_paths:
+                deepest_paths.append(path.copy())
             else:
-                if len(deepest_path[-1]) < len(path):
-                    deepest_path = [path.copy()]
-                elif len(deepest_path[-1]) == len(path):
-                    deepest_path.append(path.copy())
+                if len(deepest_paths[-1]) < len(path):
+                    deepest_paths.clear()
+                    deepest_paths.append(path.copy())
+                elif len(deepest_paths[-1]) == len(path):
+                    deepest_paths.append(path.copy())
             path.pop()
             return
         
+        # Construct deepest_path and find the first common node
+        # across all paths in reverse order
         dfs(root, [])
-        depth = len(deepest_path[0])
-        if len(deepest_path) == 1:
-            return deepest_path[0][-1]
-        else:
-            for i in range(depth - 1, -1, -1):
-                found = True
-                res = deepest_path[0][i]
-                for path in deepest_path:
-                    if path[i] != res:
-                        found = False
-                        break
-                if found:
-                    return res
+        
+        if len(deepest_paths) == 1:
+            return deepest_paths[0][-1]
+        
+        path_length = len(deepest_paths[0])
+        for i in range(path_length - 1, -1, -1):
+            res = deepest_paths[0][i]
+            if all(path[i] == res for path in deepest_paths):
+                return res
