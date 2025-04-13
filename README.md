@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0447-number-of-boomerangs) |
 | [1069-confusing-number](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1069-confusing-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2050-count-good-numbers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2050-count-good-numbers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2649-count-total-number-of-colored-cells) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3001-apply-operations-to-maximize-score) |
@@ -356,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3548-find-the-count-of-good-integers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3548-find-the-count-of-good-integers) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
