@@ -1,29 +1,19 @@
 class Solution:
-    def countAndSay(self, n: int) -> str:
-        memo = {}
-        def compression(k):
-            # Base Case and Cache Checking
-            if k == 1:
-                return '1'
-            if k in memo: 
-                return memo[k]
-            
-            # Strign Compression
-            stack = []
-            lis = compression(k - 1)
-            curr, prev = 1, lis[0]
-            for element in lis[1:]:
-                if element == prev:
-                    curr += 1
+    def recurr(self, nums, k, n):
+        res = ''
+        stack = []
+        for i in nums:
+            if not stack:
+                stack.append(i)
+            else:
+                if i == stack[-1]:
+                    stack.append(i)
                 else:
-                    stack.append(str(curr))
-                    stack.append(prev)
-                    curr, prev = 1, element
-                
-            # Adding the final element
-            stack.append(str(curr))
-            stack.append(prev)
-            final = ''.join(stack) 
-            memo[k] = final
-            return final
-        return compression(n)
+                    res += str(len(stack)) + stack[-1]
+                    stack = [i]
+        if stack:
+            res += str(len(stack)) + stack[0]
+        return res if k == n else self.recurr(res,k + 1,n)
+
+    def countAndSay(self, n: int) -> str:
+        return self.recurr('1', 2, n) if n != 1 else '1'
