@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2050-count-good-numbers) |
+| [2141-smallest-greater-multiple-made-of-two-digits](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2141-smallest-greater-multiple-made-of-two-digits) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2649-count-total-number-of-colored-cells) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2141-smallest-greater-multiple-made-of-two-digits](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2141-smallest-greater-multiple-made-of-two-digits) |
 | [3548-find-the-count-of-good-integers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3548-find-the-count-of-good-integers) |
 ## Recursion
 |  |
