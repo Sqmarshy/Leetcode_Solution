@@ -4,10 +4,8 @@ class Solution:
             return -1
 
         limit = 2**31 - 1
-        visited = set()
-        bfs = []
-        bfs.append([str(min(digit1, digit2))])
-        bfs.append([str(max(digit1, digit2))])
+        mini, maxi = min(digit1, digit2), max(digit1, digit2)
+        bfs, visited = [[str(mini)], [str(maxi)]], set()
         while bfs:
             num = bfs.pop(0)
             s = ''.join(num)
@@ -17,6 +15,6 @@ class Solution:
             visited.add(s)
             if res > k and res % k == 0:
                 return res
-            bfs.append(num + [str(min(digit1, digit2))])
-            bfs.append(num + [str(max(digit1, digit2))])
+            bfs.append(num + [str(mini)])
+            bfs.append(num + [str(maxi)])
         return -1
