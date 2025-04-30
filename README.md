@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0447-number-of-boomerangs](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0447-number-of-boomerangs) |
 | [0740-delete-and-earn](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0740-delete-and-earn) |
+| [0778-reorganize-string](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0778-reorganize-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1023-time-based-key-value-store](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1023-time-based-key-value-store) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0266-palindrome-permutation](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0266-palindrome-permutation) |
 | [0474-ones-and-zeroes](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0474-ones-and-zeroes) |
+| [0778-reorganize-string](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1023-time-based-key-value-store) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0334-increasing-triplet-subsequence) |
+| [0778-reorganize-string](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0778-reorganize-string) |
 | [1503-reducing-dishes](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1503-reducing-dishes) |
 | [2636-maximum-subsequence-score](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2636-maximum-subsequence-score) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0018-4sum) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0778-reorganize-string](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0948-sort-an-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1253-sort-the-matrix-diagonally) |
 | [1503-reducing-dishes](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1503-reducing-dishes) |
@@ -315,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0948-sort-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2636-maximum-subsequence-score](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2636-maximum-subsequence-score) |
@@ -348,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0778-reorganize-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2331-intersection-of-multiple-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
