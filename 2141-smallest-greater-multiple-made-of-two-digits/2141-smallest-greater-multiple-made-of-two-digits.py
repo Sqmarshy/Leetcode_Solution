@@ -1,11 +1,18 @@
 class Solution:
     def findInteger(self, k: int, digit1: int, digit2: int) -> int:
-        if digit1 == digit2 == 0 :
+        if digit1 == digit2 == 0:
             return -1
 
         limit = 2**31 - 1
         mini, maxi = min(digit1, digit2), max(digit1, digit2)
-        bfs, visited = [[str(mini)], [str(maxi)]], set()
+        bfs = []
+        if mini != maxi:
+            bfs.append([str(mini)])
+            bfs.append([str(maxi)])
+        else:
+            bfs.append([str(mini)])
+        visited = set()
+
         while bfs:
             num = bfs.pop(0)
             s = ''.join(num)
@@ -17,4 +24,5 @@ class Solution:
                 return res
             bfs.append(num + [str(mini)])
             bfs.append(num + [str(maxi)])
+        
         return -1
