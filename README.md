@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0127-word-ladder](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0127-word-ladder) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0038-count-and-say) |
 | [0127-word-ladder](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0127-word-ladder) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0012-integer-to-roman) |
 | [0447-number-of-boomerangs](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0447-number-of-boomerangs) |
 | [1069-confusing-number](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1069-confusing-number) |
 | [1500-count-largest-group](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1500-count-largest-group) |
