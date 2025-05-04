@@ -1,10 +1,3 @@
 class Solution:
     def numEquivDominoPairs(self, dominoes: List[List[int]]) -> int:
-        nums = [tuple(sorted(i)) for i in dominoes]
-        count = Counter(nums)
-        res = 0
-        for k, v in count.items():
-            if v >= 2:
-                curr = sum(i for i in range(1, v))
-                res += curr
-        return res
+        return sum(sum(i for i in range(1, v)) if v >= 2 else 0 for v in Counter([tuple(sorted(i)) for i in dominoes]).values())
