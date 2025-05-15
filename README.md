@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0346-moving-average-from-data-stream](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0346-moving-average-from-data-stream) |
+| [0361-bomb-enemy](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0361-bomb-enemy) |
 | [0416-partition-equal-subset-sum](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0447-number-of-boomerangs](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0447-number-of-boomerangs) |
 | [0474-ones-and-zeroes](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0474-ones-and-zeroes) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0213-house-robber-ii) |
 | [0256-paint-house](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0256-paint-house) |
 | [0337-house-robber-iii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0337-house-robber-iii) |
+| [0361-bomb-enemy](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0361-bomb-enemy) |
 | [0416-partition-equal-subset-sum](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0474-ones-and-zeroes) |
 | [0487-max-consecutive-ones-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0487-max-consecutive-ones-ii) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0200-number-of-islands) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
+| [0361-bomb-enemy](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0361-bomb-enemy) |
 | [1036-rotting-oranges](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1036-rotting-oranges) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1253-sort-the-matrix-diagonally) |
 | [1559-cherry-pickup-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1559-cherry-pickup-ii) |
