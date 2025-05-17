@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0868-push-dominoes](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0868-push-dominoes) |
 | [1894-merge-strings-alternately](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0778-reorganize-string](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0948-sort-an-array) |
