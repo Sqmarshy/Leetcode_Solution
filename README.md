@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3483-alternating-groups-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3639-zero-array-transformation-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3643-zero-array-transformation-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Divide and Conquer
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2915-count-of-interesting-subarrays) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3639-zero-array-transformation-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3643-zero-array-transformation-ii) |
 ## Counting
 |  |
