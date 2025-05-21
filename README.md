@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2249-count-the-hidden-sequences) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2280-count-good-triplets-in-an-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1500-count-largest-group) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2331-intersection-of-multiple-arrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1253-sort-the-matrix-diagonally](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1253-sort-the-matrix-diagonally) |
 | [1559-cherry-pickup-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1559-cherry-pickup-ii) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3227-find-missing-and-repeated-values) |
