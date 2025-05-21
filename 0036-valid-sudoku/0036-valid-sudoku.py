@@ -6,7 +6,6 @@ class Solution:
             track = set()
             for c in range(cols):
                 if board[r][c] != '.' and board[r][c] in track:
-                    print(1)
                     return False
                 track.add(board[r][c])
         
@@ -15,7 +14,6 @@ class Solution:
             track = set()
             for r in range(rows):
                 if board[r][c] != '.' and board[r][c] in track:
-                    print(2)
                     return False
                 track.add(board[r][c])
         
