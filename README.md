@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Tree
 |  |
 | ------- |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2551-apply-operations-to-an-array) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Database
 |  |
 | ------- |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1552-build-an-array-with-stack-operations](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1552-build-an-array-with-stack-operations) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3001-apply-operations-to-maximize-score) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Monotonic Stack
 |  |
 | ------- |
