@@ -7,35 +7,28 @@ class Solution:
                 continue
             dic[start].append(end)
 
-        min_dist_node1 = [float('inf')] * n 
-        min_dist_node2 = [float('inf')] * n
-        heap1 = [[0, node1]]
-        heap2 = [[0, node2]]
+        def dijkstra(starting_node):
+            min_dist_node = [float('inf')] * n 
+            heap = [[0, starting_node]]
 
-        while heap1:
-            dist, node = heapq.heappop(heap1)
-            if min_dist_node1[node] != float('inf'):
-                continue
-            min_dist_node1[node] = dist
+            while heap:
+                dist, node = heapq.heappop(heap)
+                if min_dist_node[node] != float('inf'):
+                    continue
+                min_dist_node[node] = dist
 
-            for neighbour in dic[node]:
-                if min_dist_node1[neighbour] == float('inf'):
-                    heapq.heappush(heap1, [dist + 1, neighbour])
-        
-        while heap2:
-            dist, node = heapq.heappop(heap2)
-            if min_dist_node2[node] != float('inf'):
-                continue
-            min_dist_node2[node] = dist
+                for neighbour in dic[node]:
+                    if min_dist_node[neighbour] == float('inf'):
+                        heapq.heappush(heap, [dist + 1, neighbour])
+            
+            return min_dist_node
 
-            for neighbour in dic[node]:
-                if min_dist_node2[neighbour] == float('inf'):
-                    heapq.heappush(heap2, [dist + 1, neighbour])
-
+        from_node1 = dijkstra(node1)
+        from_node2 = dijkstra(node2)
         idx, res = -1, float('inf')
         for i in range(n):
-            if type(min_dist_node1[i]) == int and type(min_dist_node2[i]) == int:
-                k = max(min_dist_node1[i], min_dist_node2[i])
+            if type(from_node1[i]) == int and type(from_node2[i]) == int:
+                k = max(from_node1[i], from_node2[i])
                 if res > k:
                     res, idx = k, i
         return idx
