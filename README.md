@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0792-binary-search) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0907-koko-eating-bananas) |
+| [0945-snakes-and-ladders](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1036-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0200-number-of-islands) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0361-bomb-enemy](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0361-bomb-enemy) |
+| [0945-snakes-and-ladders](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1036-rotting-oranges) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1253-sort-the-matrix-diagonally) |
 | [1559-cherry-pickup-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1559-cherry-pickup-ii) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0871-keys-and-rooms](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0871-keys-and-rooms) |
+| [0945-snakes-and-ladders](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1544-count-good-nodes-in-binary-tree) |
