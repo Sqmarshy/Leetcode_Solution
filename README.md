@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0135-candy](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0135-candy) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0200-number-of-islands) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0778-reorganize-string](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0778-reorganize-string) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
