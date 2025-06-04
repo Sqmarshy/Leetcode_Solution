@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3483-alternating-groups-ii) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3643-zero-array-transformation-ii) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Sliding Window
 |  |
 | ------- |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2915-count-of-interesting-subarrays) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3639-zero-array-transformation-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3647-zero-array-transformation-iii) |
