@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2331-intersection-of-multiple-arrays) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2915-count-of-interesting-subarrays) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1503-reducing-dishes](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1503-reducing-dishes) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2636-maximum-subsequence-score](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2636-maximum-subsequence-score) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3001-apply-operations-to-maximize-score) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1552-build-an-array-with-stack-operations](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1552-build-an-array-with-stack-operations) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3001-apply-operations-to-maximize-score) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Monotonic Stack
