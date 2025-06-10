@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0447-number-of-boomerangs) |
 | [0474-ones-and-zeroes](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0474-ones-and-zeroes) |
 | [0487-max-consecutive-ones-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0487-max-consecutive-ones-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0740-delete-and-earn](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0740-delete-and-earn) |
 | [0792-binary-search](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0792-binary-search) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0012-integer-to-roman) |
 | [0447-number-of-boomerangs](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0447-number-of-boomerangs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1069-confusing-number](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1069-confusing-number) |
 | [1500-count-largest-group](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0435-non-overlapping-intervals](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0435-non-overlapping-intervals) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0778-reorganize-string](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0948-sort-an-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1253-sort-the-matrix-diagonally) |
