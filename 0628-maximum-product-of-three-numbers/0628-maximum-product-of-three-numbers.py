@@ -1,7 +1,6 @@
 class Solution:
     def maximumProduct(self, nums: List[int]) -> int:
         nums.sort()
-        res = nums[:2] + nums[-3:]
-        first = res[0] * res[1] * res[-1]
-        second = res[-1] * res[-2] * res[-3] 
+        first = nums[0] * nums[1] * nums[-1]
+        second = nums[-1] * nums[-2] * nums[-3] 
         return max(first, second)
