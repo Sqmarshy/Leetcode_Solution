@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0337-house-robber-iii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0437-path-sum-iii) |
+| [0663-equal-tree-partition](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0663-equal-tree-partition) |
 | [0904-leaf-similar-trees](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0337-house-robber-iii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0437-path-sum-iii) |
+| [0663-equal-tree-partition](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0663-equal-tree-partition) |
 | [0871-keys-and-rooms](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0337-house-robber-iii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0437-path-sum-iii) |
+| [0663-equal-tree-partition](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0663-equal-tree-partition) |
 | [0904-leaf-similar-trees](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
