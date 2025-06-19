@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1675-magnetic-force-between-two-balls) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1253-sort-the-matrix-diagonally](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1253-sort-the-matrix-diagonally) |
 | [1559-cherry-pickup-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1559-cherry-pickup-ii) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0054-spiral-matrix) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1552-build-an-array-with-stack-operations) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2551-apply-operations-to-an-array) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3860-resulting-string-after-adjacent-removals) |
