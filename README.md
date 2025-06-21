@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0474-ones-and-zeroes) |
 | [0487-max-consecutive-ones-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0487-max-consecutive-ones-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0740-delete-and-earn](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0740-delete-and-earn) |
 | [0792-binary-search](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0792-binary-search) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
