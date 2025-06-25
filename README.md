@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1675-magnetic-force-between-two-balls) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1612-avoid-flood-in-the-city](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1612-avoid-flood-in-the-city) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1675-magnetic-force-between-two-balls) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2280-count-good-triplets-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
