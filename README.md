@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1552-build-an-array-with-stack-operations) |
 | [1559-cherry-pickup-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1559-cherry-pickup-ii) |
 | [1612-avoid-flood-in-the-city](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1612-avoid-flood-in-the-city) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1675-magnetic-force-between-two-balls) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0868-push-dominoes](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0868-push-dominoes) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1894-merge-strings-alternately](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0948-sort-an-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1253-sort-the-matrix-diagonally) |
 | [1503-reducing-dishes](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1503-reducing-dishes) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1675-magnetic-force-between-two-balls) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2215-finding-3-digit-even-numbers) |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1612-avoid-flood-in-the-city](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1612-avoid-flood-in-the-city) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1675-magnetic-force-between-two-balls) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2280-count-good-triplets-in-an-array) |
