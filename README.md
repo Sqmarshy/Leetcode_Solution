@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3618-find-the-original-typed-string-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Hash Table
 |  |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3618-find-the-original-typed-string-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3647-zero-array-transformation-iii) |
