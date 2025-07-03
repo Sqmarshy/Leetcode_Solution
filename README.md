@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2551-apply-operations-to-an-array) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Database
 |  |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-the-number-of-good-partitions](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3212-count-the-number-of-good-partitions) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3548-find-the-count-of-good-integers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3548-find-the-count-of-good-integers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
 |  |
 | ------- |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
