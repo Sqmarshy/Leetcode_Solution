@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
+| [0285-inorder-successor-in-bst](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0285-inorder-successor-in-bst) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0337-house-robber-iii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0437-path-sum-iii) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0200-number-of-islands) |
+| [0285-inorder-successor-in-bst](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0285-inorder-successor-in-bst) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0337-house-robber-iii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0337-house-robber-iii) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
+| [0285-inorder-successor-in-bst](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0285-inorder-successor-in-bst) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0337-house-robber-iii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0437-path-sum-iii) |
@@ -644,4 +647,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2140-longest-subsequence-repeated-k-times) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0285-inorder-successor-in-bst](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0285-inorder-successor-in-bst) |
 <!---LeetCode Topics End-->
