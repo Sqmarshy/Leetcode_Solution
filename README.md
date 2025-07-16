@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3469-maximum-height-of-a-triangle](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3469-maximum-height-of-a-triangle) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3483-alternating-groups-ii) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3639-zero-array-transformation-i) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3618-find-the-original-typed-string-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Hash Table
