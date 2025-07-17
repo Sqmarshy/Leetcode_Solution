@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2331-intersection-of-multiple-arrays) |
+| [2405-minimum-number-of-keypresses](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2405-minimum-number-of-keypresses) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2405-minimum-number-of-keypresses](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2405-minimum-number-of-keypresses) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2405-minimum-number-of-keypresses](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2405-minimum-number-of-keypresses) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2636-maximum-subsequence-score](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2636-maximum-subsequence-score) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2331-intersection-of-multiple-arrays) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2405-minimum-number-of-keypresses](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2405-minimum-number-of-keypresses) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -539,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2331-intersection-of-multiple-arrays) |
+| [2405-minimum-number-of-keypresses](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2405-minimum-number-of-keypresses) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
