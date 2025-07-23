@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1894-merge-strings-alternately) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1503-reducing-dishes](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1503-reducing-dishes) |
 | [1612-avoid-flood-in-the-city](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1612-avoid-flood-in-the-city) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1552-build-an-array-with-stack-operations](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1552-build-an-array-with-stack-operations) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3001-apply-operations-to-maximize-score) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3860-resulting-string-after-adjacent-removals) |
