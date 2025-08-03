@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2249-count-the-hidden-sequences) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1675-magnetic-force-between-two-balls) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2280-count-good-triplets-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0325-maximum-size-subarray-sum-equals-k) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2249-count-the-hidden-sequences) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2714-left-and-right-sum-differences](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2714-left-and-right-sum-differences) |
