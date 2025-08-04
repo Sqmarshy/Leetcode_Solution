@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0792-binary-search) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0907-koko-eating-bananas) |
+| [0940-fruit-into-baskets](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1036-rotting-oranges) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0740-delete-and-earn) |
 | [0778-reorganize-string](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0778-reorganize-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0940-fruit-into-baskets) |
 | [1023-time-based-key-value-store](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1023-time-based-key-value-store) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1143-find-smallest-common-element-in-all-rows) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0487-max-consecutive-ones-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0487-max-consecutive-ones-ii) |
+| [0940-fruit-into-baskets](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0940-fruit-into-baskets) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
