@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0474-ones-and-zeroes) |
 | [0487-max-consecutive-ones-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0487-max-consecutive-ones-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0679-24-game](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0679-24-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0740-delete-and-earn](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0740-delete-and-earn) |
 | [0792-binary-search](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0792-binary-search) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0012-integer-to-roman) |
 | [0447-number-of-boomerangs](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0447-number-of-boomerangs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0679-24-game](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0679-24-game) |
 | [0900-reordered-power-of-2](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0900-reordered-power-of-2) |
 | [1069-confusing-number](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1069-confusing-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Binary Search Tree
