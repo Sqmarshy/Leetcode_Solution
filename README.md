@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2529-range-product-queries-of-powers) |
 | [2551-apply-operations-to-an-array](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2551-apply-operations-to-an-array) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2551-apply-operations-to-an-array) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2551-apply-operations-to-an-array) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Database
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0948-sort-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1612-avoid-flood-in-the-city) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2636-maximum-subsequence-score](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2636-maximum-subsequence-score) |
 | [3647-zero-array-transformation-iii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3647-zero-array-transformation-iii) |
