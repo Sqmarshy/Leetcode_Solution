@@ -6,7 +6,7 @@ class Solution:
         heapq.heapify(last)
         left, right = candidates, len(costs) - candidates - 1
         res = 0
-        while k:
+        for _ in range(k):
             a = first[0] if first else 9999999
             b = last[0] if last else 9999999
             if a <= b:
@@ -21,5 +21,4 @@ class Solution:
                 if left <= right:
                     heapq.heappush(last, costs[right])
                     right -= 1
-            k -= 1
         return res
