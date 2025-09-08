@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0900-reordered-power-of-2) |
 | [1069-confusing-number](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1069-confusing-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1500-count-largest-group](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2050-count-good-numbers) |
