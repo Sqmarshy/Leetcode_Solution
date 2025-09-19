@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2331-intersection-of-multiple-arrays) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2429-design-a-food-rating-system](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2429-design-a-food-rating-system) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2529-range-product-queries-of-powers) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2331-intersection-of-multiple-arrays) |
 | [2405-minimum-number-of-keypresses](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2405-minimum-number-of-keypresses) |
+| [2429-design-a-food-rating-system](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2429-design-a-food-rating-system) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2405-minimum-number-of-keypresses](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2405-minimum-number-of-keypresses) |
+| [2429-design-a-food-rating-system](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2429-design-a-food-rating-system) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -541,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2429-design-a-food-rating-system](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2429-design-a-food-rating-system) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2636-maximum-subsequence-score](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2636-maximum-subsequence-score) |
@@ -620,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0346-moving-average-from-data-stream](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0346-moving-average-from-data-stream) |
 | [1023-time-based-key-value-store](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1023-time-based-key-value-store) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2429-design-a-food-rating-system](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3797-design-spreadsheet) |
 ## Bit Manipulation
@@ -706,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2280-count-good-triplets-in-an-array) |
+| [2429-design-a-food-rating-system](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3678-design-task-manager) |
 ## Monotonic Queue
 |  |
