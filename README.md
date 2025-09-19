@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1036-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1098-largest-unique-number](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1098-largest-unique-number) |
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1143-find-smallest-common-element-in-all-rows) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0940-fruit-into-baskets) |
 | [1023-time-based-key-value-store](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1023-time-based-key-value-store) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
+| [1098-largest-unique-number](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1098-largest-unique-number) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0948-sort-an-array) |
+| [1098-largest-unique-number](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1098-largest-unique-number) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1253-sort-the-matrix-diagonally) |
 | [1503-reducing-dishes](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1503-reducing-dishes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
