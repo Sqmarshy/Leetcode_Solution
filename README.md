@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3797-design-spreadsheet](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3827-implement-router) |
 ## String
 |  |
 | ------- |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2690-house-robber-iv) |
 | [3292-earliest-second-to-mark-indices-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3292-earliest-second-to-mark-indices-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3643-zero-array-transformation-ii) |
+| [3827-implement-router](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3827-implement-router) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -627,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3827-implement-router) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -646,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3827-implement-router) |
 ## Union Find
 |  |
 | ------- |
@@ -713,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2280-count-good-triplets-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
