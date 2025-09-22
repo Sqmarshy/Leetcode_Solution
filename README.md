@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3212-count-the-number-of-good-partitions](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3212-count-the-number-of-good-partitions) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3292-earliest-second-to-mark-indices-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3292-earliest-second-to-mark-indices-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2915-count-of-interesting-subarrays) |
 | [3212-count-the-number-of-good-partitions](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3212-count-the-number-of-good-partitions) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3548-find-the-count-of-good-integers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2331-intersection-of-multiple-arrays) |
 | [2405-minimum-number-of-keypresses](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2405-minimum-number-of-keypresses) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
