@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0127-word-ladder) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0266-palindrome-permutation](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0266-palindrome-permutation) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0325-maximum-size-subarray-sum-equals-k) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0127-word-ladder) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0165-compare-version-numbers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0266-palindrome-permutation](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0266-palindrome-permutation) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0474-ones-and-zeroes](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0474-ones-and-zeroes) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0012-integer-to-roman) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0447-number-of-boomerangs](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0447-number-of-boomerangs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0679-24-game) |
