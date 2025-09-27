@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0740-delete-and-earn](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0740-delete-and-earn) |
 | [0792-binary-search](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0792-binary-search) |
+| [0830-largest-triangle-area](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0830-largest-triangle-area) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0940-fruit-into-baskets) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0447-number-of-boomerangs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0679-24-game) |
+| [0830-largest-triangle-area](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0900-reordered-power-of-2) |
 | [1069-confusing-number](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1069-confusing-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -773,4 +775,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3462-vowels-game-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
