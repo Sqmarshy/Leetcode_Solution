@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0135-candy) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0200-number-of-islands) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0127-word-ladder) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0166-fraction-to-recurring-decimal) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0266-palindrome-permutation](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0266-palindrome-permutation) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0325-maximum-size-subarray-sum-equals-k) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0165-compare-version-numbers) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0868-push-dominoes](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1894-merge-strings-alternately](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1894-merge-strings-alternately) |
@@ -652,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0170-two-sum-iii-data-structure-design](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0346-moving-average-from-data-stream](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0346-moving-average-from-data-stream) |
 | [1023-time-based-key-value-store](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1023-time-based-key-value-store) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -688,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0170-two-sum-iii-data-structure-design](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0346-moving-average-from-data-stream](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0346-moving-average-from-data-stream) |
 ## Topological Sort
 |  |
