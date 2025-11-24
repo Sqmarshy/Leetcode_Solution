@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0948-sort-an-array) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1036-rotting-oranges](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1036-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1098-largest-unique-number](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1098-largest-unique-number) |
@@ -668,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0266-palindrome-permutation](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/0266-palindrome-permutation) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2529-range-product-queries-of-powers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2529-range-product-queries-of-powers) |
