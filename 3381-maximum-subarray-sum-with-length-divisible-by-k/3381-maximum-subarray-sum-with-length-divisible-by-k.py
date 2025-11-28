@@ -1,5 +1,6 @@
 class Solution:
     def maxSubarraySum(self, nums: List[int], k: int) -> int:
+        res = -float('inf')
         n = len(nums)
         prefix = []
         curr, left = 0, 0
@@ -7,11 +8,11 @@ class Solution:
             curr += nums[i]
             if i - left + 1 < k:
                 continue
+            res = res if curr < res else curr
             prefix.append(curr)
             curr -= nums[left]
             left += 1
         
-        res = max(prefix)
         seen = set()
         for i in range(len(prefix)):
             if i in seen or prefix[i] < 0:
