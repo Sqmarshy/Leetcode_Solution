@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2915-count-of-interesting-subarrays) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3212-count-the-number-of-good-partitions](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3212-count-the-number-of-good-partitions) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
