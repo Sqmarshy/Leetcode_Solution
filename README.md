@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2023-design-movie-rental-system) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1917-maximum-average-pass-ratio) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2405-minimum-number-of-keypresses](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2405-minimum-number-of-keypresses) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1675-magnetic-force-between-two-balls) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2215-finding-3-digit-even-numbers) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Sqmarshy/Leetcode_Solution/tree/master/2331-intersection-of-multiple-arrays) |
